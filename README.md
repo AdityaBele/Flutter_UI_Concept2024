@@ -1,6 +1,6 @@
 # uidemoproject
 
-A new Flutter project.
+A new Flutter project.Making NextGen UI for smooth exprience and get attach to application
 
 ## Getting Started
 
